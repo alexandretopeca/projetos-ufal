@@ -6,3 +6,4 @@ Projetos dos exemplos e links vistos nas aulas da UFAL Penedo
 * Deploy de projetos de sites do GitHub [Netlify](https://www.netlify.com/)
 * Validar compatibilidade de elementos utilizados no site [Can I use](https://caniuse.com/)
 * Exercícios complementares as aulas de Web 1 [W3Schools](https://www.w3schools.com/)
+* Saber os Key Codes do teclado [KeyCode](https://keycode.info/)

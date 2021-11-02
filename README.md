@@ -8,3 +8,5 @@ Projetos dos exemplos e links vistos nas aulas da UFAL Penedo
 * Exercícios complementares as aulas de Web 1 [W3Schools](https://www.w3schools.com/)
 * Saber os Key Codes do teclado [KeyCode](https://keycode.info/)
 * Gerar textos aleatórios para conteúdo [Lipsum](https://lipsum.com/) 
+* Banco de imagens para usar em sites [Unsplash](https://unsplash.com/)
+* Compressão de imagens png e jpeg [Tinypng](https://tinypng.com/)

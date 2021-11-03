@@ -11,3 +11,4 @@ Projetos dos exemplos e links vistos nas aulas da UFAL Penedo
 * Gerar textos aleatórios para conteúdo [Lipsum](https://lipsum.com/) 
 * Banco de imagens para usar em sites [Unsplash](https://unsplash.com/)
 * Compressão de imagens png e jpeg [Tinypng](https://tinypng.com/)
+* Editor online de javascript [Stackblitz](https://stackblitz.com/)

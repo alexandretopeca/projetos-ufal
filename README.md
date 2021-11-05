@@ -12,3 +12,4 @@ Projetos dos exemplos e links vistos nas aulas da UFAL Penedo
 * Banco de imagens para usar em sites [Unsplash](https://unsplash.com/)
 * Compressão de imagens png e jpeg [Tinypng](https://tinypng.com/)
 * Editor online de javascript [Stackblitz](https://stackblitz.com/)
+* Paleta de cores Gradiente [Cssgradient](https://cssgradient.io/) 
